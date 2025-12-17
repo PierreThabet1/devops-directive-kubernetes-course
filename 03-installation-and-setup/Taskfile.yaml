@@ -2,9 +2,9 @@ version: "3"
 
 env:
   CLUSTER_NAME: devops-directive-kubernetes-course
-  CIVO_REGION: NYC1
-  GCP_REGION: us-central1
-  GCP_ZONE: us-central1-a
+  CIVO_REGION: FRA1
+  GCP_REGION: europe west3
+  GCP_ZONE: europe west3
   # Set default gum style options
   BORDER: double
   BORDER_FOREGROUND: "212"
